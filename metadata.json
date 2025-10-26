@@ -1,0 +1,5 @@
+{
+  "name": "EV Powertrain Simulation Dashboard",
+  "description": "A dashboard to model and simulate an Electric Vehicle Powertrain with regenerative braking and industrial-grade mechatronic integration. It allows for parameter adjustment and visualizes performance under standard driving cycles.",
+  "requestFramePermissions": []
+}
